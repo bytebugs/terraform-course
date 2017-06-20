@@ -1,3 +1,4 @@
+
 # terraform-course
 
 * These files are part of my Udemy course about Terraform
